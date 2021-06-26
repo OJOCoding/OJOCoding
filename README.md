@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OJOCoding or you can also call me Oni :)
+- 👀 I’m interested in Web Design and Java Development
+- 🌱 I’m currently learning Web Design surprisingly hehe.
+- 📫 How to reach me at linkedin.com/in/oni-luca-7aa070177/
