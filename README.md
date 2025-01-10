@@ -58,7 +58,6 @@ Exploring **machine learning models** on wine data to gain deeper insights into 
 
 Feel free to explore my repositories and get in touch:  
 📧 **Email:** [oniluca@ymail.com](mailto:oniluca@ymail.com)  
-📱 **Phone:** +355 68 801 0600  
 🌐 **LinkedIn:** [linkedin.com/in/oni-luca-7aa070177](https://www.linkedin.com/in/oni-luca-7aa070177/)
 
 ---
