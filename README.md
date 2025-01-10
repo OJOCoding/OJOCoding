@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer | UI/UX Enthusiast | Aspiring Full-Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OniLuca-blue)](https://www.linkedin.com/in/oni-luca-7aa070177/) [![GitHub](https://img.shields.io/badge/GitHub-OniCoding-lightgrey)](https://github.com/OJOCoding)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OniLuca-blue)](https://www.linkedin.com/in/oniluca/) [![GitHub](https://img.shields.io/badge/GitHub-OniCoding-lightgrey)](https://github.com/OJOCoding)
 
 ---
 
