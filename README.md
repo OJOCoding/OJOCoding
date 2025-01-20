@@ -1,65 +1,70 @@
-# 👋 Hello, World! I'm Oni Luca 🌟
+# Oni Luca's Code Repository 
 
-🚀 **Frontend Developer | UI/UX Enthusiast | Aspiring Full-Stack Developer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OniLuca-blue)](https://www.linkedin.com/in/oniluca/) [![GitHub](https://img.shields.io/badge/GitHub-OniCoding-lightgrey)](https://github.com/OJOCoding)
+### Hello there! Welcome to my coding universe.
+I'm **Oni Luca**, a multifaceted developer, AI enthusiast, and problem-solver passionate about creating impactful projects. My work spans a variety of domains, including artificial intelligence, web development, software engineering, and more. I aim to combine technical proficiency with creativity to deliver unique and practical solutions.
 
 ---
 
 ## 🌟 About Me
-
-Hi there! I'm a passionate **Frontend Developer** and **Web Designer**, skilled in crafting scalable, high-performance applications that prioritize user experience. With a strong academic background in Computer Science (GPA: 3.9) and hands-on experience in **responsive design**, **modern web technologies**, and **UI/UX**, I thrive on turning creative ideas into reality.
-
----
-
-## 🔧 Technical Toolkit
-
-**Languages:** HTML, CSS (SASS), JavaScript, TypeScript, Python, SQL, PL/SQL, Java, Kotlin, C++, C#, R  
-**Frameworks & Libraries:** Angular, React, Vue, Vite, Angular Material, React Material UI, .NET  
-**Tools:** Figma, Storybook, Git, Docker  
-**Databases:** Oracle, Firestore, SQLite  
-**Other Skills:** Accessibility Standards, Prototyping, Cloud Basics, Version Control
+- **Education:** Computer Science Major with a focus on UI/UX and Machine Learning.
+- **Interests:**
+  - Artificial Intelligence and Deep Learning 
+  - UI/UX Design (Accessibility-focused) 
+  - Full-Stack Web Development 
+  - Data Science and Databases 
+  - Game Development 
+- **Mission:** To innovate and craft solutions that empower users and foster inclusivity and functionality.
 
 ---
 
-## 📂 Featured Projects
+## 🔥 Highlighted Projects
+### 🚀 [Aequitas](https://github.com/OJOCoding/aequitas)
+- **Inclusive Online Banking Platform** | [Live Demo](https://aequitas-thesis.web.app/)
+- Features accessible design adhering to WCAG, AI-powered chatbot, and secure digital signature authentication.
 
-### 🌐 [Aequitas](https://github.com/OJOCoding/aequitas)
-A cutting-edge **online banking platform** developed as part of my Bachelor’s thesis, prioritizing **security**, **accessibility**, and a stellar **user experience**.  
-**Tech Stack:** Angular, TypeScript, Firebase, Figma  
-**Highlight:** Achieved exceptional usability scores using tools like Google Lighthouse and WAVE.
-
-### 🥗 [Vinnie's Trattoria Full-Stack Website](https://github.com/OJOCoding/VinniesTrattoria_FullStackWebsite)
-An interactive restaurant site with a dynamic backend. Features include a blog, admin panel, and review section.  
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, SQL  
-**Highlight:** Delivered a seamless user experience with database-driven functionalities.
+ ### 🥗 [Vinnie's Trattoria Website](https://github.com/OJOCoding/VinniesTrattoria)
+- An interactive restaurant site with a dynamic backend. Features include a blog, admin panel, and review section.  
+- Delivered a seamless user experience with database-driven functionalities.
 
 ### 📱 [Vinnie's Trattoria Reservation App](https://github.com/OJOCoding/VinniesTrattoriaAPP)
-An **Android application** for managing restaurant reservations and orders with a clean and intuitive UI.  
-**Tech Stack:** Java, SQLite  
-**Highlight:** Enhanced restaurant operations by streamlining bookings and order management.
+- An **Android application** for managing restaurant reservations and orders with a clean and intuitive UI.  
+- Enhanced restaurant operations by streamlining bookings and order management.
 
-### 🧠 [ML Models on Wine](https://github.com/OJOCoding/MLModelsOnWine)
-Exploring **machine learning models** on wine data to gain deeper insights into dataset patterns.  
-**Tech Stack:** Python, Pandas, Scikit-learn  
-**Highlight:** A fun dive into AI and its practical applications in a niche domain.
+### 🧠 [Water Classification Model](https://github.com/OJOCoding/WaterQualificationModel)
+- **DNN Model used to classify drinkable water**
+- A project designed to assess and classify water quality using advanced machine learning techniques.
 
----
+### 📦 [DotNotModule](https://github.com/OJOCoding/DotNotModule)
+- **ERP Item Packaging Module**
+- Developed with .NET Core 6.0, this module streamlines item management with intuitive master-detail views and robust functionality.
 
-## 🏆 Achievements & Certifications
-
-- **Google UX Design Professional Certificate** (In Progress)  
-- Recipient of **90% Financial Aid/Scholarship** at The American College of Thessaloniki  
-- Core Member of the **Google Developer Student Club**, managing social media and hackathon promotions.
 
 ---
 
-## 💬 Let’s Connect!
-
-Feel free to explore my repositories and get in touch:  
-📧 **Email:** [oniluca@ymail.com](mailto:oniluca@ymail.com)  
-🌐 **LinkedIn:** [linkedin.com/in/oni-luca-7aa070177](https://www.linkedin.com/in/oni-luca-7aa070177/)
+## ⚙️ Tech Toolbox
+Here are some of the technologies and tools I work with:
+- **Programming Languages:** Python, Java, C#, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Angular, Node.js, .NET Core, NumPy, Scikit-learn
+- **Databases:** Firebase Firestore, MySQL, MongoDB, SQLite
+- **Design Tools:** Figma, Photoshop
+- **Other:** Git, Dialogflow, Matplotlib, Pandas, Material-UI
 
 ---
 
-*Crafted with care to showcase my journey in tech and design.* 😊
+## 🌱 What I’m Learning
+- Advanced deep learning techniques like Transformer models 
+- Optimizing database performance for large-scale applications 
+- Exploring procedural generation in game development 
+
+---
+
+## 📫 Let’s Connect
+- **GitHub:** [OJOCODING](https://github.com/OJOCoding)
+- **Email:** [oniluca@ymail.com](mailto:oniluca@ymail.com)
+- **LinkedIn:** [linkedin.com/in/oni-luca-7aa070177](https://www.linkedin.com/in/oniluca/)
+- **Portfolio:** Coming soon!
+
+---
+
+Thanks for visiting my GitHub! Feel free to explore my repositories and reach out if you'd like to collaborate. Let’s build something amazing together! 🚀
+
