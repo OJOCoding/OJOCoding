@@ -18,6 +18,11 @@ I'm **Oni Luca**, a multifaceted developer, AI enthusiast, and problem-solver pa
 ---
 
 ## 🔥 Highlighted Projects
+### 🔒 [Obscura](https://github.com/OJOCoding/obscura)
+- **Zero-knowledge encrypted messenger** with burn-after-read
+- AES-256-GCM in-browser, atomic Redis `GETDEL`, and AI-powered intent guardrails via Gemini.
+- Built with FastAPI + React; the server never sees plaintext or keys.
+  
 ### 🚀 [Aequitas](https://github.com/OJOCoding/aequitas)
 - **Inclusive Online Banking Platform** | [Live Demo](https://aequitas-thesis.web.app/)
 - Features accessible design adhering to WCAG, AI-powered chatbot, and secure digital signature authentication.
