@@ -5,7 +5,7 @@ I'm **Oni Luca**, a multifaceted developer, AI enthusiast, and problem-solver pa
 
 ---
 
-## 🌟 About Me
+## About Me
 - **Education:** Computer Science Major with a focus on UI/UX and Machine Learning.
 - **Interests:**
   - Artificial Intelligence and Deep Learning 
@@ -17,36 +17,41 @@ I'm **Oni Luca**, a multifaceted developer, AI enthusiast, and problem-solver pa
 
 ---
 
-## 🔥 Highlighted Projects
-### 🔒 [Obscura](https://github.com/OJOCoding/obscura)
+##  Highlighted Projects
+### [Obscura](https://github.com/OJOCoding/obscura)
 - **Zero-knowledge encrypted messenger** with burn-after-read
 - AES-256-GCM in-browser, atomic Redis `GETDEL`, and AI-powered intent guardrails via Gemini.
 - Built with FastAPI + React; the server never sees plaintext or keys.
+
+### [Mimir](https://github.com/OJOCoding/mimir)
+- **LLM Knowledge Assistant (RAG System)**
+- Retrieval-Augmented Generation system for querying custom datasets with grounded, source-cited answers.
+- Built with Python · LangChain · FAISS · FastAPI · sentence-transformers · Ollama (or OpenAI).
   
-### 🚀 [Aequitas](https://github.com/OJOCoding/aequitas)
+### [Aequitas](https://github.com/OJOCoding/aequitas)
 - **Inclusive Online Banking Platform** | [Live Demo](https://aequitas-thesis.web.app/)
 - Features accessible design adhering to WCAG, AI-powered chatbot, and secure digital signature authentication.
 
- ### 🥗 [Vinnie's Trattoria Website](https://github.com/OJOCoding/VinniesTrattoria)
+ ### [Vinnie's Trattoria Website](https://github.com/OJOCoding/VinniesTrattoria)
 - An interactive restaurant site with a dynamic backend. Features include a blog, admin panel, and review section.  
 - Delivered a seamless user experience with database-driven functionalities.
 
-### 📱 [Vinnie's Trattoria Reservation App](https://github.com/OJOCoding/VinniesTrattoriaAPP)
+### [Vinnie's Trattoria Reservation App](https://github.com/OJOCoding/VinniesTrattoriaAPP)
 - An **Android application** for managing restaurant reservations and orders with a clean and intuitive UI.  
 - Enhanced restaurant operations by streamlining bookings and order management.
 
-### 🧠 [Water Classification Model](https://github.com/OJOCoding/WaterQualificationModel)
+### [Water Classification Model](https://github.com/OJOCoding/WaterQualificationModel)
 - **DNN Model used to classify drinkable water**
 - A project designed to assess and classify water quality using advanced machine learning techniques.
 
-### 📦 [DotNotModule](https://github.com/OJOCoding/DotNotModule)
+### [DotNotModule](https://github.com/OJOCoding/DotNotModule)
 - **ERP Item Packaging Module**
 - Developed with .NET Core 6.0, this module streamlines item management with intuitive master-detail views and robust functionality.
 
 
 ---
 
-## ⚙️ Tech Toolbox
+## Tech Toolbox
 Here are some of the technologies and tools I work with:
 - **Programming Languages:** Python, Java, C#, JavaScript, TypeScript
 - **Frameworks/Libraries:** React, Angular, Node.js, .NET Core, NumPy, Scikit-learn
@@ -56,14 +61,14 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## 🌱 What I’m Learning
+## What I’m Learning
 - Advanced deep learning techniques like Transformer models 
 - Optimizing database performance for large-scale applications 
 - Exploring procedural generation in game development 
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 - **GitHub:** [OJOCODING](https://github.com/OJOCoding)
 - **Email:** [oniluca@ymail.com](mailto:oniluca@ymail.com)
 - **LinkedIn:** [linkedin.com/in/oni-luca-7aa070177](https://www.linkedin.com/in/oniluca/)
