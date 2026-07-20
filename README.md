@@ -29,7 +29,7 @@ I'm **Oni Luca**, a multifaceted developer, AI enthusiast, and problem-solver pa
 - Built with Python · LangChain · FAISS · FastAPI · sentence-transformers · Ollama (or OpenAI).
   
 ### [Aequitas](https://github.com/OJOCoding/aequitas)
-- **Inclusive Online Banking Platform** | [Live Demo](https://aequitas-thesis.web.app/)
+- **Inclusive Online Banking Platform** | [Live Demo](https://aequitas-sigma.vercel.app)
 - Features accessible design adhering to WCAG, AI-powered chatbot, and secure digital signature authentication.
 
  ### [Vinnie's Trattoria Website](https://github.com/OJOCoding/VinniesTrattoria)
